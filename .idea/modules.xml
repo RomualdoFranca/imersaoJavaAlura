@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ALURA-STICKERS.iml" filepath="$PROJECT_DIR$/ALURA-STICKERS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/top250Tvs/top250Tvs.iml" filepath="$PROJECT_DIR$/top250Tvs/top250Tvs.iml" />
     </modules>
   </component>
 </project>
